@@ -49,7 +49,7 @@ This Project will contain two phases:
 
 I will use RapidMiner 
 
-**RapidMiner** is is a powerful data mining tool that enables everything from data mining to model deployment, and model operations, an end-to-end data science platform offers all of the data preparation and machine learning capabilities needed to drive real impact across your organization.
+**RapidMiner** is  a powerful data mining tool that enables everything from data mining to model deployment, and model operations, an end-to-end data science platform offers all of the data preparation and machine learning capabilities needed to drive real impact across your organization.
 
 **Phase Two**
 
