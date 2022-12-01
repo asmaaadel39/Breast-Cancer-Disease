@@ -96,5 +96,22 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
+**Phase 1**
+
+I started with the Data Exploration:
+I prepared the data using Python.
+...... Check Missing Values......
+...... Duplicates Values........
+...... Summary Statistics.......
+...... Find outliers............
+...... Some Visualization.......
+Then export the data using ( df.to_csv('mycsvfile.csv',index=False)  )
+To Import it in RapidMiner.
+
+** Classification Algorithms**
+ 1-Decision Tree
+ 2-Rule Induction
+ 3-Support Vector Machine
+
 
 
