@@ -118,8 +118,11 @@ To Import it in RapidMiner.
 
 **Classification Algorithms**
 
+ 
  1-Decision Tree
+ 
  2-Rule Induction
+ 
  3-Support Vector Machine
 
 
