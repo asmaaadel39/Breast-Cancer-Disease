@@ -121,9 +121,15 @@ To Import it in RapidMiner.
  
  1-Decision Tree
  
- 2-Rule Induction
+ 2-Rule Induction ( will be coverd using Rapid Miner only)
  
  3-Support Vector Machine
+ 
+ 4-Naive Bayes
+ 
+ 5-Artificial Neural Network
+ 
+ All these algorithms will be covered in both python and rapied miner, To make a comparison between the results ( Accuracy , Computational effort)
 
 
 
